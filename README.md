@@ -1,5 +1,14 @@
 # Deep Generative Model: A Statistical Perspective (STT 997)
 
+<table>
+<tr>
+<td>
+<img src="code/[VAE] generation_results_29.pdf" width="100%" alt="">
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
 ## Instructor Information
 **Instructor:** Younggeun Kim  
 **Email:** kimyo145 at msu dot edu  
