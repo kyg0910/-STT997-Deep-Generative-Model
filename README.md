@@ -15,7 +15,7 @@ This course, STT 997: Advanced Topics in Statistics (Spring 2025) at Michigan St
 - Gain hands-on experience with popular algorithms in Python and PyTorch.
 
 ## Lecture Topics
-| Topic                                    | Course Materials                | Key References                |
+| Topic                                    | Course Material                | Key Reference                |
 |------------------------------------------|---------------------------|---------------------------|
 | 1. Introduction                          | [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/lecture%20notes/1.%20Introduction.pdf)     |     |
 | 2. Preliminary Knowledge I: Statistics   | [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/lecture%20notes/2.%20Preliminary%20Knowledge%20-%20Statistics.pdf)     |  [1, 2]   |
