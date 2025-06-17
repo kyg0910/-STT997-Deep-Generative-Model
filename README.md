@@ -54,5 +54,6 @@ Journal of Machine Learning Research, 6(4). <br>
 [13] Ho, J., Jain, A., and Abbeel, P. (2020). Denoising diffusion probabilistic models. Advances in
 neural information processing systems, 33:6840–6851.
 
-
+## License
+You can freely use and distribute the code, as long as you provide attribution to the original author and source.
 
